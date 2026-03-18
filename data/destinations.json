@@ -1,0 +1,5 @@
+[
+  { "id": "d1", "name": "Santorini, Greece", "tags": ["beach", "island", "sunset"] },
+  { "id": "d2", "name": "Kyoto, Japan", "tags": ["temples", "culture", "food"] },
+  { "id": "d3", "name": "Banff, Canada", "tags": ["mountains", "hiking", "lakes"] }
+]
